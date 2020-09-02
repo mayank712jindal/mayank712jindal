@@ -10,9 +10,9 @@
   
 <p align="left">🤔 I’m looking for help with <b>UI/UX</b></p>
 
-<p align="left">📫 Reach me here: <a href="mailto :mayank712jindal@gmail.com">mayank712jindal@gmail.com</a></p>
+<p align="left">📫 Reach me here: <a href="mailto : mayank712jindal@gmail.com">mayank712jindal@gmail.com</a></p>
 
-<p align="left">🔗 Connect me on <a href="www.linkedin.com/in/mayank712jindal">LinkedIn</a></p>
+<p align="left">🔗 Connect me on <a href="https://linkedin.com/in/mayank712jindal">LinkedIn</a></p>
 <hr style="height="0.5px">
 
 <div align="left">

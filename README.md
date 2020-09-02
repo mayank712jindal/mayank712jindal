@@ -1,5 +1,4 @@
-<p align="left">I am <b>Mayank Jindal.</b></p>
-<br>
+<p align="left">Hi there 👋, I am <b>Mayank Jindal.</b></p><br>
 
 <p align="left">Below is a brief about me:</b>
 

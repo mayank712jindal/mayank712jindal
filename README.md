@@ -4,7 +4,7 @@
 
 <p align="left">🎓 Pursuing B.Tech in Computer Science and Engineering</b>
 
-<p align="left">🌱 I’m currently learning <b>Javascript and Bootstrap</b>.</p>
+<p align="left">🌱 I’m currently learning <b>MERN Stack</b>.</p>
 
 <p align="left">👯 I’m looking to collaborate on <b>Web based Project</b>
   

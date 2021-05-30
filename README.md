@@ -4,11 +4,13 @@
 
 <p align="left">🎓 Pursuing B.Tech in Computer Science and Engineering</b>
 
-<p align="left">🌱 I’m currently learning <b>MERN Stack</b>.</p>
+<p align="left">🌱 I’ve a good hands on <b>LAMP Stack</b>.</p>
 
-<p align="left">👯 I’m looking to collaborate on <b>Web based Project</b>
+<p align="left">🌱 I’m currently working on <b>MERN Stack</b>.</p>
+
+<p align="left">👯 Looking forward to collaborate on <b>Web based Project</b>
   
-<p align="left">🤔 I’m looking for help with <b>UI/UX</b></p>
+<p align="left">🤔 Looking for help with <b>UI/UX</b></p>
 
 <p align="left">📫 Reach me here: <a href="mailto : mayank712jindal@gmail.com">mayank712jindal@gmail.com</a></p>
 
